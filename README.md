@@ -1,5 +1,8 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">

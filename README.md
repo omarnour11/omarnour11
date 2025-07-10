@@ -17,7 +17,6 @@
 </p>
 
 <a href="#omar-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="stats" align="right" />
 </a>
 
 - 🎓 I'm currently a **3rd-year Computer Science student**

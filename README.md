@@ -21,15 +21,15 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science student (3rd year)
-- 💻 Backend-focused developer aiming for the .NET ecosystem
-- ⚙️ Strong fundamentals in C++ & Problem Solving
-- 🌐 Experience with HTML, CSS, JavaScript
-- 🧠 Studied Databases & Relational Algebra
-- 🔧 Working with C#, ASP.NET Core, ADO.NET & LINQ
-- 🗄️ Database experience with SQL Server
-- 📊 Interested in Clean Code, REST APIs, and Scalable Systems
-- 🏆 Practicing algorithms & data structures on Codeforces
-- 🚀 Long-term goal: Professional Backend / Full-Stack Developer
+- 💻 Backend-focused developer aiming for the **.NET ecosystem**
+- ⚙️ Strong fundamentals in **C++ & Problem Solving**
+- 🌐 Experience with **HTML, CSS, JavaScript**
+- 🧠 Studied **Databases & Relational Algebra**
+- 🔧 Working with **C#, ASP.NET Core, ADO.NET & LINQ**
+- 🗄️ Database experience with **SQL Server**
+- 📊 Interested in **Clean Code, REST APIs, and Scalable Systems**
+- 🏆 Practicing algorithms & data structures on **Codeforces**
+- 🚀 Long-term goal: **Professional Backend / Full-Stack Developer**
 
 📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/omarnour11/) • [Codeforces](https://codeforces.com/profile/omarnour1)
@@ -85,9 +85,10 @@
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📌 Current Focus</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarnour11&show_icons=true&theme=default&hide_border=true" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnour11&layout=compact&hide_border=true" width="46%" />
-</p>
+- Building **Backend APIs** using **ASP.NET Core**
+- Working with **ADO.NET & LINQ** for data access
+- Designing relational databases with **SQL Server**
+- Improving **problem solving & system thinking**
+

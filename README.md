@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+OMAR+NOUR....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;I'm+Omar+Nour;Backend+.NET+Developer+in+Progress;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <p align="left">
   <a href="https://github.com/omarnour11">
-    <img src="https://komarev.com/ghpvc/?username=omarnour11" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=omarnour11" alt="profile views" />
   </a>
   <a href="https://www.linkedin.com/in/omarnour11/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-omarnour11-blue?logo=linkedin">
@@ -16,63 +16,77 @@
   </a>
 </p>
 
-<a href="#omar-title">
-</a>
+---
 
-- 🎓 I'm currently a **3rd-year Computer Science student**
-- 💻 I have solid fundamentals in **C++**
-- 🌐 I also learned **HTML**, **CSS**, **JavaScript**, and **Python**
-- 🐍 Currently learning **Django** to become a **Backend Developer**
-- 🚀 Planning to shift into **Full-Stack Web Development** soon
-- 🧠 Practicing algorithms on [Codeforces](https://codeforces.com/profile/omarnour1)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omarnour11/)
+### 👨‍💻 About Me
+
+- 🎓 Computer Science student (3rd year)
+- 💻 Backend-focused developer aiming for the .NET ecosystem
+- ⚙️ Strong fundamentals in C++ & Problem Solving
+- 🌐 Experience with HTML, CSS, JavaScript
+- 🧠 Studied Databases & Relational Algebra
+- 🔧 Working with C#, ASP.NET Core, ADO.NET & LINQ
+- 🗄️ Database experience with SQL Server
+- 📊 Interested in Clean Code, REST APIs, and Scalable Systems
+- 🏆 Practicing algorithms & data structures on Codeforces
+- 🚀 Long-term goal: Professional Backend / Full-Stack Developer
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/omarnour11/) • [Codeforces](https://codeforces.com/profile/omarnour1)
 
 <br>
 
-<h2 align="left" id="omar-tech">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" />
+      <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" />
+      <br>.NET
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" />
+      <br>ADO.NET
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" />
+      <br>LINQ
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" />
       <br>Git
     </td>
   </tr>
 </table>
 
+<br>
+
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarNour&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarNour&layout=compact&theme=react&border_color=61dafb&hide_border=true" width="45%" />
-</p>
-
-<h2 align="center">🔥 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarNour&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=omarnour11&show_icons=true&theme=react&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnour11&

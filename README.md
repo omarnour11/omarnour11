@@ -88,5 +88,6 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarnour11&show_icons=true&theme=react&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnour11&
+  <img src="https://github-readme-stats.vercel.app/api?username=omarnour11&show_icons=true&theme=default&hide_border=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnour11&layout=compact&hide_border=true" width="46%" />
+</p>
